@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Room Database</string>
+    <string name="kullanici_ekle_button_text">Kullanıcı Ekle</string>
+    <string name="kullanicilari_gor_button_text">Kullanıcıları Gör</string>
+    <string name="soyisim">Soyisim</string>
+    <string name="sim">İsim</string>
 </resources>
